@@ -33,6 +33,8 @@
     
     [lineChart loadChart];
     
+//    [lineChart release];
+    
 }
 
 - (void)didReceiveMemoryWarning {

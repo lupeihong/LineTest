@@ -33,7 +33,7 @@
     
     [lineChart loadChart];
     
-//    [lineChart release];
+    [lineChart release];
     
 }
 
